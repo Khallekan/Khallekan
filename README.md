@@ -10,7 +10,7 @@ Skills: Javascript, Typescript, Node, Express, React, Next.
 - 🌱 I’m currently learning React Native and Nest. 
 - 📫 How to reach me: okeolalekanisaac@gmail.com
 
-[![Khallekan's GitHub stats](https://github-readme-stats.vercel.app/api?username=khallekan)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Khallekan's GitHub stats](https://github-readme-stats.vercel.app/api?username=khallekan)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 Here are some ideas to get you started:
