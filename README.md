@@ -2,7 +2,7 @@
 My name is Lekan, I am a Software Engineer.
 
 ### What I do 👷‍♂️
-I hit the keyboard and magic happens 😌.
+I build cool stuff.
 
 Skills: Javascript, Typescript, Node, Express, React, Next.
 
