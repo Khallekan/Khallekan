@@ -7,7 +7,7 @@ I build cool stuff.
 Skills: Javascript, Typescript, Node, Express, React, Next.
 
 - 🔭 I’m currently building cool stuff at Thrindle. 
-- 🌱 I’m currently learning React Native and Nest. 
+- 🌱 I’m currently learning React Native. 
 - 📫 How to reach me: okeolalekanisaac@gmail.com
 
 <!-- [![Khallekan's GitHub stats](https://github-readme-stats.vercel.app/api?username=khallekan)](https://github.com/anuraghazra/github-readme-stats) -->
