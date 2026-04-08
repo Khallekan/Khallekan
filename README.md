@@ -1,26 +1,31 @@
-### Hi there 👋　いらしゃい！
-My name is Lekan, I am a Software Engineer.
+# Hi there, I'm Lekan 👋 
 
-### What I do 👷‍♂️
-I build cool stuff.
+### Full-Stack Engineer
+I’m a product-focused engineer specializing in building and scaling high-performance applications. I bridge the gap between complex product requirements and robust technical architecture. Currently leading engineering teams and architecting systems that scale to thousands of users.
 
-Skills: Javascript, Typescript, Node, Express, React, Next.
+---
 
-- 🔭 I’m currently building cool stuff at Thrindle. 
-- 🌱 I’m currently learning React Native. 
-- 📫 How to reach me: okeolalekanisaac@gmail.com
+### 🚀 What I'm Up To
+- 🔭 **Currently:** Leading engineering efforts at **Product Studio**, where we turn ambitious ideas into market-ready products.
+- 🛠️ **Expertise:** Deep mastery of the TypeScript ecosystem (**NestJS**, **Next.js**, **React**) and Cloud Infrastructure (**AWS**).
+- 🧠 **Philosophy:** I believe in "pre-emptive engineering"—identifying bottlenecks and architectural risks before the first line of code is written.
+- 🌱 **Currently Learning:** Mastering **Go (Golang)** for high-concurrency microservices and cloud-native tooling.
 
-<!-- [![Khallekan's GitHub stats](https://github-readme-stats.vercel.app/api?username=khallekan)](https://github.com/anuraghazra/github-readme-stats) -->
+### 🛠️ Technical Arsenal
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript (ES6+), SQL |
+| **Frontend** | React 18+, Next.js, Redux, Tailwind CSS |
+| **Backend** | NestJS, Node.js, Express, Microservices |
+| **Cloud/DevOps** | AWS (EC2, S3, ECS), Docker, CI/CD |
+| **Databases** | PostgreSQL, MongoDB, Redis |
 
-<!--
-Here are some ideas to get you started:
+### 📈 Career Highlights
+- **Agency Growth:** Part of the core team that scaled **Thrindle's** engineering department into a standalone product agency.
+- **Leadership:** Managing and mentoring cross-functional teams, driving code quality through rigorous peer reviews and strategic delegation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📫 Connect with me:
+- **Email:** [okeolalekanisaac@gmail.com](mailto:okeolalekanisaac@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/okeolalekan/]
